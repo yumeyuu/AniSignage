@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Anisignage")(type "KiCad")(uri "${KIPRJMOD}/Anisignage.pretty")(options "")(descr ""))
+)

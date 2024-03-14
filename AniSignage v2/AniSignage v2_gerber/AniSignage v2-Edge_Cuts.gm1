@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
+%TF.CreationDate,2024-02-13T14:16:51+07:00*%
+%TF.ProjectId,AniSignage v2,416e6953-6967-46e6-9167-652076322e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-02-13 14:16:51*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X83312000Y-49784000D02*
+X194818000Y-49784000D01*
+X194818000Y-119888000D01*
+X83312000Y-119888000D01*
+X83312000Y-49784000D01*
+M02*
